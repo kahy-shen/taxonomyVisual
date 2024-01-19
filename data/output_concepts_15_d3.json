@@ -1,0 +1,78 @@
+{
+	"name": "ROOT",
+	"id": -1,
+	"children": [
+		{
+			"name": "apparel_accessories",
+			"id": 1,
+			"children": [
+				{
+					"name": "jewelry",
+					"id": 3,
+					"children": [
+						{
+							"name": "necklaces",
+							"id": 6
+						},
+						{
+							"name": "clothing",
+							"id": 7,
+							"children": [
+								{
+									"name": "bird_food",
+									"id": 12
+								},
+								{
+									"name": "bird_supplies",
+									"id": 13
+								}
+							]
+						},
+						{
+							"name": "pet_door_accessories",
+							"id": 8,
+							"children": [
+								{
+									"name": "baby_bathing",
+									"id": 14
+								},
+								{
+									"name": "baby_health",
+									"id": 15
+								},
+								{
+									"name": "baby_toddler",
+									"id": 16
+								}
+							]
+						},
+						{
+							"name": "shoes",
+							"id": 9
+						},
+						{
+							"name": "bird_cage_accessories",
+							"id": 10
+						},
+						{
+							"name": "anklets",
+							"id": 11
+						}
+					]
+				},
+				{
+					"name": "animals_pet_supplies",
+					"id": 4
+				},
+				{
+					"name": "diapering",
+					"id": 5
+				}
+			]
+		},
+		{
+			"name": "unknown",
+			"id": 2
+		}
+	]
+}

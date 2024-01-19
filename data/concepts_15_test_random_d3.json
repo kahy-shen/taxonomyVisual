@@ -1,0 +1,76 @@
+{
+	"name": "ROOT",
+	"id": -1,
+	"children": [
+		{
+			"name": "first_aid",
+			"id": 1,
+			"children": [
+				{
+					"name": "health_beauty",
+					"id": 2,
+					"children": [
+						{
+							"name": "acupuncture_needles",
+							"id": 5,
+							"children": [
+								{
+									"name": "pregnancy_tests",
+									"id": 6
+								},
+								{
+									"name": "biometric_monitors",
+									"id": 7
+								}
+							]
+						},
+						{
+							"name": "acupuncture_models",
+							"id": 8
+						},
+						{
+							"name": "blood_pressure_monitors",
+							"id": 9
+						},
+						{
+							"name": "personal_care",
+							"id": 10
+						},
+						{
+							"name": "condoms",
+							"id": 11,
+							"children": [
+								{
+									"name": "health_care",
+									"id": 14
+								}
+							]
+						},
+						{
+							"name": "first_aid_kits",
+							"id": 12,
+							"children": [
+								{
+									"name": "acupuncture",
+									"id": 15
+								}
+							]
+						},
+						{
+							"name": "allergy_test_kits",
+							"id": 13
+						}
+					]
+				},
+				{
+					"name": "medical_tests",
+					"id": 3
+				},
+				{
+					"name": "drug_tests",
+					"id": 4
+				}
+			]
+		}
+	]
+}

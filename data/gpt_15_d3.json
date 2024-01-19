@@ -1,0 +1,80 @@
+{
+	"name": "ROOT",
+	"id": -1,
+	"children": [
+		{
+			"name": "mattresses",
+			"id": 1,
+			"children": [
+				{
+					"name": "beds_bed_frames",
+					"id": 2,
+					"children": [
+						{
+							"name": "dog_beds",
+							"id": 11,
+							"children": [
+								{
+									"name": "dog_supplies",
+									"id": 8,
+									"children": [
+										{
+											"name": "animals_pet_supplies",
+											"id": 3,
+											"children": [
+												{
+													"name": "pet_supplies",
+													"id": 4,
+													"children": [
+														{
+															"name": "bird_supplies",
+															"id": 5
+														},
+														{
+															"name": "dog_apparel",
+															"id": 6
+														},
+														{
+															"name": "furniture",
+															"id": 7
+														}
+													]
+												},
+												{
+													"name": "cat_supplies",
+													"id": 9
+												},
+												{
+													"name": "live_animals",
+													"id": 10
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "beds_accessories",
+									"id": 12,
+									"children": [
+										{
+											"name": "cabinets_storage",
+											"id": 15
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "benches",
+							"id": 13
+						},
+						{
+							"name": "headboards_footboards",
+							"id": 14
+						}
+					]
+				}
+			]
+		}
+	]
+}
